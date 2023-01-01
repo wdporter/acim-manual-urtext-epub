@@ -1,0 +1,21 @@
+---js
+{
+	"bookTitle": "A Course in Miracles — Manual"
+}
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>{{ bookTitle}} | {{chapterNumber}}. {{ title }}</title>
+	<style>
+		blockquote {
+			font-style: italic;
+		}
+	</style>
+</head>
+<body>
+<h1>{{ chapterNumber }}. {{ title }}</h1>
+{{ content | safe }}
+</body>
+</html>

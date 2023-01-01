@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" unique-identifier="pub-id" xmlns="http://www.idpf.org/2007/opf">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="pub-id">urn:uuid:40b17e86-a370-441d-9540-063a68dd937b</dc:identifier>
+		<dc:title>A Course in Miracles — Manual</dc:title>
+		<dc:creator>Jesus of the Course</dc:creator>
+		<dc:language>en</dc:language>
+		<meta property="dcterms:modified">2022-12-24T12:00:00Z</meta>
+	</metadata>
+	<manifest>
+		<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="coverpage" href="coverpage.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter1" href="chapter1.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter2" href="chapter2.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter3" href="chapter3.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter4" href="chapter4.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter5" href="chapter5.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter6" href="chapter6.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter7" href="chapter7.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter8" href="chapter8.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter9" href="chapter9.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter10" href="chapter10.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter11" href="chapter11.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter12" href="chapter12.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter13" href="chapter13.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter14" href="chapter14.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter15" href="chapter15.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter16" href="chapter16.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter17" href="chapter17.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter18" href="chapter18.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter19" href="chapter19.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter20" href="chapter20.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter21" href="chapter21.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter22" href="chapter22.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter23" href="chapter23.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter24" href="chapter24.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter25" href="chapter25.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter26" href="chapter26.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter27" href="chapter27.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter28" href="chapter28.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter29" href="chapter29.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter30" href="chapter30.xhtml" media-type="application/xhtml+xml" />
+		<item id="chapter31" href="chapter31.xhtml" media-type="application/xhtml+xml" />
+	</manifest>
+
+	<spine>
+		<itemref idref="coverpage" />
+		<itemref idref="nav" />
+		<itemref idref="chapter1" />
+		<itemref idref="chapter2" />
+		<itemref idref="chapter3" />
+		<itemref idref="chapter4" />
+		<itemref idref="chapter5" />
+		<itemref idref="chapter6" />
+		<itemref idref="chapter7" />
+		<itemref idref="chapter8" />
+		<itemref idref="chapter9" />
+		<itemref idref="chapter10" />
+		<itemref idref="chapter11" />
+		<itemref idref="chapter12" />
+		<itemref idref="chapter13" />
+		<itemref idref="chapter14" />
+		<itemref idref="chapter15" />
+		<itemref idref="chapter16" />
+		<itemref idref="chapter17" />
+		<itemref idref="chapter18" />
+		<itemref idref="chapter19" />
+		<itemref idref="chapter20" />
+		<itemref idref="chapter21" />
+		<itemref idref="chapter22" />
+		<itemref idref="chapter23" />
+		<itemref idref="chapter24" />
+		<itemref idref="chapter25" />
+		<itemref idref="chapter26" />
+		<itemref idref="chapter27" />
+		<itemref idref="chapter28" />
+		<itemref idref="chapter29" />
+		<itemref idref="chapter30" />
+		<itemref idref="chapter31" />
+	</spine>
+</package>
+
+
+

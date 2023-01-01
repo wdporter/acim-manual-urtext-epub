@@ -1,0 +1,16 @@
+{
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.wordWrapColumn": 79,
+	"editor.fontFamily": "Calibri",
+	"editor.fontSize": 20,
+	"editor.tabSize": 4,
+	"editor.fontLigatures": false,
+	"spellright.language": [
+		"en"
+	],
+	"spellright.documentTypes": [
+		"markdown",
+		"latex",
+		"html"
+	]
+}
