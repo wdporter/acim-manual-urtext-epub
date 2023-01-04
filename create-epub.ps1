@@ -1,5 +1,5 @@
 #delete book if exsiting
-remove-item acim-manual.epub
+remove-item acim-urtext-manual.epub
 
 #delete dist folder
 remove-item dist -recurse -force
@@ -11,8 +11,8 @@ npm run build
 rename-item -path dist\mimetype -newname !mimetype
 
 #create the archive
-C:\Programs\7-Zip\7z a -tzip acim-manual.epub .\dist\*
+C:\Programs\7-Zip\7z a -tzip acim-urtext-manual.epub .\dist\*
 
 # rename !mimetype  
-C:\Programs\7-Zip\7z rn acim-manual.epub !mimetype mimetype
+C:\Programs\7-Zip\7z rn acim-urtext-manual.epub !mimetype mimetype
 
